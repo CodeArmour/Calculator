@@ -2,7 +2,7 @@ import org.apache.commons.math3.analysis.UnivariateFunction;
 import org.apache.commons.math3.analysis.integration.MidPointIntegrator;
 import org.apache.commons.math3.analysis.integration.UnivariateIntegrator;
 
-public class main {
+public class Main {
     public static void main(String[] args) {
 
         UnivariateFunction function = v -> v + 1;
