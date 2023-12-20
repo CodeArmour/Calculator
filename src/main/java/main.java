@@ -1,7 +1,5 @@
 import org.apache.commons.math3.analysis.UnivariateFunction;
 import org.apache.commons.math3.analysis.integration.MidPointIntegrator;
-import org.apache.commons.math3.analysis.integration.SimpsonIntegrator;
-import org.apache.commons.math3.analysis.integration.TrapezoidIntegrator;
 import org.apache.commons.math3.analysis.integration.UnivariateIntegrator;
 
 public class main {
